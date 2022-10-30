@@ -31,6 +31,12 @@ body{
 
 /* upload form styles */
 
+.progress-bar {
+  height: 5px;
+  background-color: var(--primary);
+  margin-top: 20px;
+}
+
 
 /* progress bar styles */
 
